@@ -1,0 +1,2 @@
+JMH S 22 reflect.ReflectionTest S 47 reflect.generated.ReflectionTest_invoke_jmhTest S 6 invoke S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 22 reflect.ReflectionTest S 58 reflect.generated.ReflectionTest_invokeWithReflect_jmhTest S 17 invokeWithReflect S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
